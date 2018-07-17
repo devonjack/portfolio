@@ -21,3 +21,12 @@ Grade: 90
 Comment: So far your HTML looks clean, but there's not much there yet because your Assignments were not turned in.
 
 I did note a few things as TODO items in your code.   You can view them by clicking the ToDo Tree icon on the left of your VS Code window.
+
+
+########
+
+Assignment: Use Google Forms to add a contact form to your page.
+
+Grade: 100
+
+Comment:  Good job.
