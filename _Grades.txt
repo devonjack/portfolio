@@ -1,0 +1,36 @@
+Portfolio final grade: 85
+
+Comments:  Decent start.  A few small issues got in your way, and I would have liked to see more effort on the CSS styles.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 95
+(50% of overall grade)
+
+Points deducted for these items:
+    -1 Broken Index link on resume page.
+    -1 Extra </body> tag in the about page.
+    -1 Extra characters after the </html> tag in the about page.
+    -2 misplace </body> and extra </nav> tag on resume page.
+    -3 Extra unused files in project folder.
+
+########
+
+Design and Accessibility:  Does it incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 100
+(25% of overall grade)
+
+Points deducted for these items:
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 50
+(25% of overall grade)
+
+Points deducted for these items:
+    -50 Media queries / mobile responsive design not included
